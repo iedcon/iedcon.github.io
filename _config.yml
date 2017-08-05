@@ -14,3 +14,4 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'http://iedcon.github.io'
 author:         'DH Kim'
+author_description: 한낮에 글쟁이를 꿈꾸며 살아가는 한낱 개발자입니다.
