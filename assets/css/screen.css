@@ -1550,7 +1550,8 @@ body:not(.post-template) .post-title {
     }
 
     .post-date {
-        display: none;
+      font-size: 1.3rem;
+      margin-top: 1rem;
     }
 
     .post-template .post-header {
