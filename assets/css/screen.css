@@ -767,7 +767,7 @@ body:not(.post-template) .post-title {
     display: block;
     margin: 1.75rem 0 0 0;
     font-family: "Open Sans", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     line-height: 2.2rem;
     color: #9EABB3;
 }
@@ -798,10 +798,11 @@ body:not(.post-template) .post-title {
 .post-date {
     display: inline-block;
     margin-left: 8px;
+    margin-bottom: 17.1px;
     padding-left: 12px;
     border-left: #d5dbde 1px solid;
     text-transform: uppercase;
-    font-size: 1.3rem;
+    font-size: 1.65rem;
     white-space: nowrap;
 }
 
