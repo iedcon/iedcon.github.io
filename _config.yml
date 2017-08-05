@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Dreamer at Midday
+description: 한낮에 꿈꾸며 행동하는 사람
+meta_description: "Dreamer at Midday, 한낮에 꿈꾸며 행동하는 사람"
 
 markdown: kramdown
 highlighter: pygments
