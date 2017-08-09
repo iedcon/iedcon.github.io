@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "80% 안에서 살아가기"
+comments: true
 date:   2017-08-06 18:40:00
 categories: Essay
 ---

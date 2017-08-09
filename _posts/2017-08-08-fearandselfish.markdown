@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "두려움과 이기심"
+comments: true
 date:   2017-08-08 01:35:00
 categories: Christianity
 ---

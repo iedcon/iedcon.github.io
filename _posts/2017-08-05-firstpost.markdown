@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "블로그를 시작하며"
+comments: true
 date:   2017-08-05 23:07:00
 categories: Essay
 ---

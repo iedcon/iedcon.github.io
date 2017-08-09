@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "광야의 역할"
+comments: true
 date:   2017-08-06 01:35:00
 categories: Christianity
 ---

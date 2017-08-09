@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "다른 삶은 없을까?"
+comments: true
 date:   2017-08-05 23:40:00
 categories: Essay
 ---
