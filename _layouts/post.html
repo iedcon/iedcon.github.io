@@ -81,11 +81,12 @@ post_class: post-template
             {% include share.html %}
 
             <!-- Disqus comments -->
-            {% if page.disqus %}
+            <!-- {% if page.disqus %}
                 {% include disqus.html %}
-            {% endif %}
+            {% endif %} -->
+            {% include disqus.html %}
 
-            <script id="dsq-count-scr" src="//iedcon.disqus.com/count.js" async></script>
+
         </footer>
 
     </article>
