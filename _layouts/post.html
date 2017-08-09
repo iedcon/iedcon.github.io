@@ -82,10 +82,10 @@ post_class: post-template
             {% include share.html %}
 
             <!-- Disqus comments -->
-            <!-- {% if page.disqus %}
+            {% if page.disqus %}
                 {% include disqus.html %}
-            {% endif %} -->
-            {% if page.comments %}
+            {% endif %}
+            <!-- {% if page.comments %}
             <div id="disqus_thread"></div>
               <script>
 
@@ -97,7 +97,7 @@ post_class: post-template
               })();
               </script>
               <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            {% endif %}
+            {% endif %} -->
 
         </footer>
 
